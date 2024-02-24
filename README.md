@@ -57,22 +57,20 @@ This study has **three Research Questions**:
 
 This dataset is completely clean. There are no NULL values or values that contradict the logic. For example in the columns **math score**, **reading score**, **writing score** there are no values that exceed 100 or are negative. So we were relieved of important work.
 
-<h6 align="center" style="color:White">math score</h6
-
+<h6 align="center" style="color:White">math score</h6>
 
 <p align="center">
 <img src="image/graph_visualiser-1708690712631.png" alt="img" width="700"/>
 </<p align="center">
 
-
-<h6 align="center" style="color:White">reading score</h6
+<h6 align="center" style="color:White">reading score</h6>
 
 <p align="center">
 <img src="image/graph_visualiser-1708691037711.png" alt="img" width="700"/>
 </<p align="center">
 
 
-<h6 align="center" style="color:White">writing score</h6
+<h6 align="center" style="color:White">writing score</h6>
 
 
 <p align="center">
@@ -281,20 +279,8 @@ dfscore = df[['math score','reading score','writing score']]
 dfscore.corr()
 ```
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
