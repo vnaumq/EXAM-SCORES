@@ -59,20 +59,24 @@ This dataset is completely clean. There are no NULL values or values that contra
 
 <h6 align="center" style="color:White">math score</h6
 
+
 <p align="center">
-<img src="image/graph_visualiser-1708690712631.png" alt="img" width="500"/>
+<img src="image/graph_visualiser-1708690712631.png" alt="img" width="700"/>
 </<p align="center">
+
 
 <h6 align="center" style="color:White">reading score</h6
 
 <p align="center">
-<img src="image/graph_visualiser-1708691037711.png" alt="img" width="500"/>
+<img src="image/graph_visualiser-1708691037711.png" alt="img" width="700"/>
 </<p align="center">
 
-<h6 align="center" style="color:White">writing score</h
+
+<h6 align="center" style="color:White">writing score</h6
+
 
 <p align="center">
-<img src="image/graph_visualiser-1708691180484.png" alt="img" width="500"/>
+<img src="image/graph_visualiser-1708691180484.png" alt="img" width="700"/>
 </<p align="center">
 
 ---
@@ -126,7 +130,7 @@ GROUP BY  gender
 As we see women do much better on exams like wirting and reading, and men do much better on math
 
 <p align="center">
-<img src="image/4.png" alt="img" width="500"/>
+<img src="image/4.png" alt="img" width="700"/>
 </<p align="center">
 
 <h4 align="center" style="color:White">How effective is the test preparation course?</h4
@@ -329,6 +333,8 @@ dfscore.corr()
 df.plot(kind = 'scatter', x= 'reading score', y = 'writing score')
 plt.show()
 ```
+
+
 <p align="center">
 <img src="image/output.png" alt="img" width="500"/>
 </<p align="center">
