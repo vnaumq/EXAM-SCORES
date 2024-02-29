@@ -1,5 +1,7 @@
 <h1 align="center" style="color:White">EXAM SCORES</h1>
 
+![ViewCount](https://views.whatilearened.today/views/github/vnaumq/EXAM-SCORES.svg?cache=remove)
+
 ------
 <h3 align="center" style="color:White">INTRODUCTION </h3>
 
