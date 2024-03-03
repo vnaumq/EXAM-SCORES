@@ -30,7 +30,7 @@ To understand the influence of the parents background, test preparation etc on s
 
 <h4 align="center" style="color:White">About Research </h4>
 
-This study has **three Research Questions**:
+This study has **five Research Questions**:
   1. *Which exam is the hardest?*
 
   2. *Male or female?*
